@@ -1,0 +1,13 @@
+{
+  "name": "tpnode",
+  "version": "1.0.0",
+  "description": "Vous allez partir des données ci-dessous et réaliser une petite application Node.js, qui permet d'ajouter des utilisateurs et en option d'en supprimer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
